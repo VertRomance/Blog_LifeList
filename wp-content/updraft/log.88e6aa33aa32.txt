@@ -1,0 +1,300 @@
+0000.001 (0) Opened log file at time: Thu, 22 Jul 2021 07:29:33 +0000 on http://localhost/BucketList_Blog/wordpress
+0000.005 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.59 WP: 5.8 PHP: 8.0.3 (apache2handler, Windows NT LAPTOP-LDE9LG9L 10.0 build 19042 (Windows 10) AMD64) MySQL: 10.4.18-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/8.0.3 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 49.3M | 52M) multisite: N openssl: OpenSSL 1.1.1j  16 Feb 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.007 (0) Free space on disk containing Updraft's temporary directory: 405876.5 MB
+0000.011 (0) Tasks: Backup files: 1 (schedule: every2hours) Backup DB:  (schedule: every2hours)
+0000.013 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.026 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1626884034, seconds_ago=54939)
+0000.033 (0) Set semaphore last lock (fd) time to 2021-07-22 07:29:33
+0000.035 (0) Semaphore lock (fd) complete
+0000.041 (0) Backup run: resumption=0, nonce=88e6aa33aa32, file_nonce=88e6aa33aa32 begun at=1626938973 (0s ago), job type=backup
+0000.045 (0) Scheduling a resumption (1) after 300 seconds (1626939273) in case this run gets aborted
+0000.075 (0) Checking if we have a zip executable available
+0000.079 (0) Creation of backups of directories: beginning
+0000.086 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.089 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\BucketList_Blog\wordpress/wp-content/updraft/backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp (line 264, C:\xampp\htdocs\BucketList_Blog\wordpress\wp-content\plugins\updraftplus\backup.php)
+0000.769 (0) Total entities for the zip file: 345 directories, 2098 files (0 skipped as non-modified), 34.9 MB
+0000.772 (0) PHP event: code E_DEPRECATED: ZipArchive::open(): Using empty file as ZipArchive is deprecated (line 3640, C:\xampp\htdocs\BucketList_Blog\wordpress\wp-content\plugins\updraftplus\backup.php)
+0000.801 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.826 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.852 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.879 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.909 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.935 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.962 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.987 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.012 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0001.037 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0001.040 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.1 MB, 2098 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0012.912 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 1100 files added (on-disk size: 6031.6 KB)
+0012.937 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 1200 files added (on-disk size: 6031.6 KB)
+0012.963 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 1300 files added (on-disk size: 6031.6 KB)
+0012.988 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 1400 files added (on-disk size: 6031.6 KB)
+0013.014 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 1500 files added (on-disk size: 6031.6 KB)
+0013.039 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 1600 files added (on-disk size: 6031.6 KB)
+0013.064 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 1700 files added (on-disk size: 6031.6 KB)
+0013.091 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 1800 files added (on-disk size: 6031.6 KB)
+0013.116 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 1900 files added (on-disk size: 6031.6 KB)
+0013.141 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip.tmp: 2000 files added (on-disk size: 6031.6 KB)
+0013.144 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.3 MB, 2098 files batched, 1001 (2002) added so far); re-opening (prior size: 6031.6 KB)
+0029.424 (0) Created plugins zip (0) - 11504.7 KB in 29.3 s (392.3 KB/s) (sha1: 09535591fd9a0c984e111a7cb7ea6fc4b83ab8c1, sha256: ab6285a69c3708567cde974037ac5e00e43e346780e96bea1def9ce6d9728d47)
+0029.430 (0) Beginning creation of dump of themes (split every: 400 MB)
+0029.433 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\BucketList_Blog\wordpress/wp-content/updraft/backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-themes.zip.tmp (line 264, C:\xampp\htdocs\BucketList_Blog\wordpress\wp-content\plugins\updraftplus\backup.php)
+0029.592 (0) Total entities for the zip file: 101 directories, 407 files (0 skipped as non-modified), 10.4 MB
+0029.594 (0) PHP event: code E_DEPRECATED: ZipArchive::open(): Using empty file as ZipArchive is deprecated (line 3640, C:\xampp\htdocs\BucketList_Blog\wordpress\wp-content\plugins\updraftplus\backup.php)
+0029.618 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0029.644 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0029.672 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0029.703 (0) Zip: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0033.725 (0) Created themes zip (0) - 6524.1 KB in 4.3 s (1522 KB/s) (sha1: 6c5d8ee8afd1de83d0eeaf46c7c37be2a07cc4e7, sha256: f0d67169ad79a147495a88e0145a46056f0bf69c6acced334f5f91b04a839a10)
+0033.731 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0033.734 (0) Looking for candidates to backup in: C:\xampp\htdocs\BucketList_Blog\wordpress/wp-content/uploads
+0033.736 (0) finding files: 2021: adding to list (1)
+0033.739 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0033.742 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\BucketList_Blog\wordpress/wp-content/updraft/backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-uploads.zip.tmp (line 264, C:\xampp\htdocs\BucketList_Blog\wordpress\wp-content\plugins\updraftplus\backup.php)
+0033.766 (0) Total entities for the zip file: 2 directories, 50 files (0 skipped as non-modified), 7.2 MB
+0033.768 (0) PHP event: code E_DEPRECATED: ZipArchive::open(): Using empty file as ZipArchive is deprecated (line 3640, C:\xampp\htdocs\BucketList_Blog\wordpress\wp-content\plugins\updraftplus\backup.php)
+0034.068 (0) Created uploads zip (0) - 7424.7 KB in 0.3 s (23023 KB/s) (sha1: 907533bc8c41561d12f4eb2153312d44fbadc09d, sha256: 64644e6450b968d2ccb2945fdaefa03dd4076f91c4fc39f683d5dc3c39ac18fb)
+0034.074 (0) Beginning backup of other directories found in the content directory (index: 0)
+0034.076 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0034.079 (0) Looking for candidates to backup in: C:\xampp\htdocs\BucketList_Blog\wordpress/wp-content
+0034.082 (0) finding files: index.php: adding to list (1)
+0034.084 (0) finding files: languages: adding to list (2)
+0034.086 (0) finding files: plugins: skipping: this is the plugins directory
+0034.089 (0) finding files: themes: skipping: this is the themes directory
+0034.091 (0) finding files: updraft: skipping: this is the updraft directory
+0034.093 (0) finding files: upgrade: skipping: excluded by options
+0034.095 (0) finding files: uploads: skipping: this is the uploads directory
+0034.097 (0) finding files: wflogs: adding to list (3)
+0034.100 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\BucketList_Blog\wordpress/wp-content/updraft/backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-others.zip.tmp (line 264, C:\xampp\htdocs\BucketList_Blog\wordpress\wp-content\plugins\updraftplus\backup.php)
+0034.123 (0) Total entities for the zip file: 4 directories, 83 files (0 skipped as non-modified), 8.6 MB
+0034.126 (0) PHP event: code E_DEPRECATED: ZipArchive::open(): Using empty file as ZipArchive is deprecated (line 3640, C:\xampp\htdocs\BucketList_Blog\wordpress\wp-content\plugins\updraftplus\backup.php)
+0036.683 (0) Created others zip (0) - 3437.8 KB in 2.6 s (1332.7 KB/s) (sha1: e1900dca57efc11d93b8ae4b36643f0834cb6957, sha256: 06712bdc13202d8946a4586bfe4f3138a4d3e4f2ff08d4a022de2bda51f2f12a)
+0036.694 (0) Saving backup status to database (elements: 8)
+0036.699 (0) Beginning creation of database dump (WordPress DB)
+0036.702 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0036.794 (0) Table bcouihsifjozeoptions: Total expected rows (approximate): 235
+0036.878 (0) Table bcouihsifjozeoptions: Rows added in this batch (next record: 330): 235 (uncompressed bytes in this segment=1416545) in 0.08 seconds
+0036.888 (0) Table bcouihsifjozeoptions: finishing file(s) (2, 334.9 KB)
+0036.894 (0) Table bcouihsifjozeusers: Total expected rows (approximate): 0
+0036.900 (0) Table bcouihsifjozeusers: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1489) in 0.00 seconds
+0036.909 (0) Table bcouihsifjozeusers: finishing file(s) (2, 0.6 KB)
+0036.914 (0) Table bcouihsifjozeusermeta: Total expected rows (approximate): 19
+0036.940 (0) Table bcouihsifjozeusermeta: Rows added in this batch (next record: 20): 19 (uncompressed bytes in this segment=1578) in 0.02 seconds
+0036.951 (0) Table bcouihsifjozeusermeta: finishing file(s) (2, 0.8 KB)
+0036.960 (0) Table bcouihsifjozecommentmeta: Total expected rows (approximate): 4
+0036.984 (0) Table bcouihsifjozecommentmeta: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=977) in 0.02 seconds
+0036.995 (0) Table bcouihsifjozecommentmeta: finishing file(s) (2, 0.5 KB)
+0037.001 (0) Table bcouihsifjozecomments: Total expected rows (approximate): 2
+0037.023 (0) Table bcouihsifjozecomments: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=2295) in 0.02 seconds
+0037.032 (0) Table bcouihsifjozecomments: finishing file(s) (2, 0.8 KB)
+0037.041 (0) Table bcouihsifjozelinks: Total expected rows (approximate): 0
+0037.062 (0) Table bcouihsifjozelinks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1326) in 0.02 seconds
+0037.071 (0) Table bcouihsifjozelinks: finishing file(s) (2, 0.5 KB)
+0037.076 (0) Table bcouihsifjozepostmeta: Total expected rows (approximate): 104
+0037.087 (0) Table bcouihsifjozepostmeta: Rows added in this batch (next record: 178): 106 (uncompressed bytes in this segment=18020) in 0.01 seconds
+0037.097 (0) Table bcouihsifjozepostmeta: finishing file(s) (2, 3.8 KB)
+0037.102 (0) Table bcouihsifjozeposts: Total expected rows (approximate): 77
+0037.120 (0) Table bcouihsifjozeposts: Rows added in this batch (next record: 118): 98 (uncompressed bytes in this segment=247558) in 0.02 seconds
+0037.181 (0) Table bcouihsifjozeposts: finishing file(s) (2, 23.9 KB)
+0037.186 (0) Table bcouihsifjozeterm_relationships: Total expected rows (approximate): 3
+0037.194 (0) Table bcouihsifjozeterm_relationships: Rows added in this batch (next record: 100000): 3 (uncompressed bytes in this segment=790) in 0.01 seconds
+0037.202 (0) Table bcouihsifjozeterm_relationships: finishing file(s) (2, 0.4 KB)
+0037.208 (0) Table bcouihsifjozeterm_taxonomy: Total expected rows (approximate): 1
+0037.220 (0) Table bcouihsifjozeterm_taxonomy: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=1009) in 0.01 seconds
+0037.231 (0) Table bcouihsifjozeterm_taxonomy: finishing file(s) (2, 0.5 KB)
+0037.240 (0) Table bcouihsifjozetermmeta: Total expected rows (approximate): 0
+0037.249 (0) Table bcouihsifjozetermmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=717) in 0.01 seconds
+0037.259 (0) Table bcouihsifjozetermmeta: finishing file(s) (2, 0.4 KB)
+0037.264 (0) Table bcouihsifjozeterms: Total expected rows (approximate): 2
+0037.273 (0) Table bcouihsifjozeterms: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=851) in 0.01 seconds
+0037.281 (0) Table bcouihsifjozeterms: finishing file(s) (2, 0.5 KB)
+0037.289 (0) Table bcouihsifjozewfblockediplog: Total expected rows (approximate): 0
+0037.294 (0) Table bcouihsifjozewfblockediplog: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=687) in 0.00 seconds
+0037.304 (0) Table bcouihsifjozewfblockediplog: finishing file(s) (2, 0.4 KB)
+0037.309 (0) Table bcouihsifjozewfblocks7: Total expected rows (approximate): 0
+0037.314 (0) Table bcouihsifjozewfblocks7: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=876) in 0.00 seconds
+0037.322 (0) Table bcouihsifjozewfblocks7: finishing file(s) (2, 0.4 KB)
+0037.327 (0) Table bcouihsifjozewfconfig: Total expected rows (approximate): 236
+0037.339 (0) Table bcouihsifjozewfconfig: Rows added in this batch (next record: 1000): 237 (uncompressed bytes in this segment=84975) in 0.01 seconds
+0037.348 (0) Table bcouihsifjozewfconfig: finishing file(s) (2, 18.2 KB)
+0037.358 (0) Table bcouihsifjozewfcrawlers: Total expected rows (approximate): 0
+0037.363 (0) Table bcouihsifjozewfcrawlers: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=612) in 0.00 seconds
+0037.371 (0) Table bcouihsifjozewfcrawlers: finishing file(s) (2, 0.4 KB)
+0037.379 (0) Table bcouihsifjozewffilechanges: Total expected rows (approximate): 0
+0037.387 (0) Table bcouihsifjozewffilechanges: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=512) in 0.01 seconds
+0037.397 (0) Table bcouihsifjozewffilechanges: finishing file(s) (2, 0.3 KB)
+0037.405 (0) Table bcouihsifjozewffilemods: Total expected rows (approximate): 0
+0037.410 (0) Table bcouihsifjozewffilemods: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=848) in 0.00 seconds
+0037.419 (0) Table bcouihsifjozewffilemods: finishing file(s) (2, 0.4 KB)
+0037.424 (0) Table bcouihsifjozewfhits: Total expected rows (approximate): 0
+0037.430 (0) Table bcouihsifjozewfhits: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1498) in 0.00 seconds
+0037.439 (0) Table bcouihsifjozewfhits: finishing file(s) (2, 0.7 KB)
+0037.446 (0) Table bcouihsifjozewfhoover: Total expected rows (approximate): 0
+0037.452 (0) Table bcouihsifjozewfhoover: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=575) in 0.00 seconds
+0037.461 (0) Table bcouihsifjozewfhoover: finishing file(s) (2, 0.3 KB)
+0037.470 (0) Table bcouihsifjozewfissues: Total expected rows (approximate): 0
+0037.475 (0) Table bcouihsifjozewfissues: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2501) in 0.00 seconds
+0037.484 (0) Table bcouihsifjozewfissues: finishing file(s) (2, 1.2 KB)
+0037.492 (0) Table bcouihsifjozewfknownfilelist: Total expected rows (approximate): 0
+0037.498 (0) Table bcouihsifjozewfknownfilelist: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=491) in 0.00 seconds
+0037.511 (0) Table bcouihsifjozewfknownfilelist: finishing file(s) (2, 0.3 KB)
+0037.525 (0) Table bcouihsifjozewflivetraffichuman: Total expected rows (approximate): 0
+0037.533 (0) Table bcouihsifjozewflivetraffichuman: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=708) in 0.00 seconds
+0037.542 (0) Table bcouihsifjozewflivetraffichuman: finishing file(s) (2, 0.3 KB)
+0037.552 (0) Table bcouihsifjozewflocs: Total expected rows (approximate): 0
+0037.557 (0) Table bcouihsifjozewflocs: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=738) in 0.00 seconds
+0037.567 (0) Table bcouihsifjozewflocs: finishing file(s) (2, 0.4 KB)
+0037.574 (0) Table bcouihsifjozewflogins: Total expected rows (approximate): 0
+0037.581 (0) Table bcouihsifjozewflogins: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1041) in 0.00 seconds
+0037.590 (0) Table bcouihsifjozewflogins: finishing file(s) (2, 0.6 KB)
+0037.599 (0) Table bcouihsifjozewfls_2fa_secrets: Total expected rows (approximate): 0
+0037.605 (0) Table bcouihsifjozewfls_2fa_secrets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=741) in 0.00 seconds
+0037.614 (0) Table bcouihsifjozewfls_2fa_secrets: finishing file(s) (2, 0.4 KB)
+0037.619 (0) Table bcouihsifjozewfls_settings: Total expected rows (approximate): 17
+0037.626 (0) Table bcouihsifjozewfls_settings: Rows added in this batch (next record: 1000): 19 (uncompressed bytes in this segment=1671) in 0.00 seconds
+0037.636 (0) Table bcouihsifjozewfls_settings: finishing file(s) (2, 0.8 KB)
+0037.643 (0) Table bcouihsifjozewfnotifications: Total expected rows (approximate): 2
+0037.648 (0) Table bcouihsifjozewfnotifications: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=1102) in 0.00 seconds
+0037.657 (0) Table bcouihsifjozewfnotifications: finishing file(s) (2, 0.6 KB)
+0037.665 (0) Table bcouihsifjozewfpendingissues: Total expected rows (approximate): 0
+0037.672 (0) Table bcouihsifjozewfpendingissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=932) in 0.00 seconds
+0037.681 (0) Table bcouihsifjozewfpendingissues: finishing file(s) (2, 0.4 KB)
+0037.690 (0) Table bcouihsifjozewfreversecache: Total expected rows (approximate): 0
+0037.696 (0) Table bcouihsifjozewfreversecache: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=557) in 0.00 seconds
+0037.705 (0) Table bcouihsifjozewfreversecache: finishing file(s) (2, 0.3 KB)
+0037.713 (0) Table bcouihsifjozewfsnipcache: Total expected rows (approximate): 0
+0037.719 (0) Table bcouihsifjozewfsnipcache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=759) in 0.00 seconds
+0037.728 (0) Table bcouihsifjozewfsnipcache: finishing file(s) (2, 0.4 KB)
+0037.736 (0) Table bcouihsifjozewfstatus: Total expected rows (approximate): 10
+0037.743 (0) Table bcouihsifjozewfstatus: Rows added in this batch (next record: 10): 10 (uncompressed bytes in this segment=1575) in 0.00 seconds
+0037.752 (0) Table bcouihsifjozewfstatus: finishing file(s) (2, 0.7 KB)
+0037.758 (0) Table bcouihsifjozewftrafficrates: Total expected rows (approximate): 0
+0037.764 (0) Table bcouihsifjozewftrafficrates: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=626) in 0.00 seconds
+0037.774 (0) Table bcouihsifjozewftrafficrates: finishing file(s) (2, 0.3 KB)
+0037.776 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\xampp\htdocs\BucketList_Blog\wordpress/wp-content/updraft/backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db.gz (line 1813, C:\xampp\htdocs\BucketList_Blog\wordpress\wp-content\plugins\updraftplus\backup.php)
+0037.779 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeoptions.table.tmpr331.gz (1/33/fopen): adding to final database dump
+0037.787 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeoptions.table.gz (2/33/fopen): adding to final database dump
+0037.789 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeusers.table.tmpr2.gz (3/33/fopen): adding to final database dump
+0037.792 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeusers.table.gz (4/33/fopen): adding to final database dump
+0037.794 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeusermeta.table.tmpr21.gz (5/33/fopen): adding to final database dump
+0037.797 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeusermeta.table.gz (6/33/fopen): adding to final database dump
+0037.800 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozecommentmeta.table.tmpr5.gz (7/33/fopen): adding to final database dump
+0037.802 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozecommentmeta.table.gz (8/33/fopen): adding to final database dump
+0037.804 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozecomments.table.tmpr3.gz (9/33/fopen): adding to final database dump
+0037.809 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozecomments.table.gz (10/33/fopen): adding to final database dump
+0037.814 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozelinks.table.tmpr0.gz (11/33/fopen): adding to final database dump
+0037.819 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozelinks.table.gz (12/33/fopen): adding to final database dump
+0037.821 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozepostmeta.table.tmpr179.gz (13/33/fopen): adding to final database dump
+0037.823 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozepostmeta.table.gz (14/33/fopen): adding to final database dump
+0037.824 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeposts.table.tmpr119.gz (15/33/fopen): adding to final database dump
+0037.826 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeposts.table.gz (16/33/fopen): adding to final database dump
+0037.828 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeterm_relationships.table.tmpr100001.gz (17/33/fopen): adding to final database dump
+0037.830 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeterm_relationships.table.gz (18/33/fopen): adding to final database dump
+0037.832 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeterm_taxonomy.table.tmpr4.gz (19/33/fopen): adding to final database dump
+0037.833 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeterm_taxonomy.table.gz (20/33/fopen): adding to final database dump
+0037.835 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozetermmeta.table.tmpr0.gz (21/33/fopen): adding to final database dump
+0037.837 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozetermmeta.table.gz (22/33/fopen): adding to final database dump
+0037.842 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeterms.table.tmpr4.gz (23/33/fopen): adding to final database dump
+0037.844 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozeterms.table.gz (24/33/fopen): adding to final database dump
+0037.846 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfblockediplog.table.tmpr1.gz (25/33/fopen): adding to final database dump
+0037.849 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfblockediplog.table.gz (26/33/fopen): adding to final database dump
+0037.851 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfblocks7.table.tmpr0.gz (27/33/fopen): adding to final database dump
+0037.853 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfblocks7.table.gz (28/33/fopen): adding to final database dump
+0037.855 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfconfig.table.tmpr1001.gz (29/33/fopen): adding to final database dump
+0037.857 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfconfig.table.gz (30/33/fopen): adding to final database dump
+0037.859 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfcrawlers.table.tmpr1.gz (31/33/fopen): adding to final database dump
+0037.861 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfcrawlers.table.gz (32/33/fopen): adding to final database dump
+0037.864 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewffilechanges.table.tmpr1.gz (33/33/fopen): adding to final database dump
+0037.866 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewffilechanges.table.gz (34/33/fopen): adding to final database dump
+0037.869 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewffilemods.table.tmpr1.gz (35/33/fopen): adding to final database dump
+0037.871 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewffilemods.table.gz (36/33/fopen): adding to final database dump
+0037.874 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfhits.table.tmpr2.gz (37/33/fopen): adding to final database dump
+0037.876 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfhits.table.gz (38/33/fopen): adding to final database dump
+0037.878 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfhoover.table.tmpr0.gz (39/33/fopen): adding to final database dump
+0037.880 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfhoover.table.gz (40/33/fopen): adding to final database dump
+0037.882 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfissues.table.tmpr2.gz (41/33/fopen): adding to final database dump
+0037.884 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfissues.table.gz (42/33/fopen): adding to final database dump
+0037.886 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfknownfilelist.table.tmpr0.gz (43/33/fopen): adding to final database dump
+0037.888 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfknownfilelist.table.gz (44/33/fopen): adding to final database dump
+0037.890 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewflivetraffichuman.table.tmpr1.gz (45/33/fopen): adding to final database dump
+0037.891 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewflivetraffichuman.table.gz (46/33/fopen): adding to final database dump
+0037.893 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewflocs.table.tmpr1.gz (47/33/fopen): adding to final database dump
+0037.895 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewflocs.table.gz (48/33/fopen): adding to final database dump
+0037.897 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewflogins.table.tmpr2.gz (49/33/fopen): adding to final database dump
+0037.899 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewflogins.table.gz (50/33/fopen): adding to final database dump
+0037.901 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfls_2fa_secrets.table.tmpr0.gz (51/33/fopen): adding to final database dump
+0037.903 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfls_2fa_secrets.table.gz (52/33/fopen): adding to final database dump
+0037.904 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfls_settings.table.tmpr1001.gz (53/33/fopen): adding to final database dump
+0037.906 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfls_settings.table.gz (54/33/fopen): adding to final database dump
+0037.908 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfnotifications.table.tmpr1001.gz (55/33/fopen): adding to final database dump
+0037.910 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfnotifications.table.gz (56/33/fopen): adding to final database dump
+0037.911 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfpendingissues.table.tmpr0.gz (57/33/fopen): adding to final database dump
+0037.913 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfpendingissues.table.gz (58/33/fopen): adding to final database dump
+0037.915 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfreversecache.table.tmpr1.gz (59/33/fopen): adding to final database dump
+0037.917 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfreversecache.table.gz (60/33/fopen): adding to final database dump
+0037.919 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfsnipcache.table.tmpr0.gz (61/33/fopen): adding to final database dump
+0037.921 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfsnipcache.table.gz (62/33/fopen): adding to final database dump
+0037.922 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfstatus.table.tmpr11.gz (63/33/fopen): adding to final database dump
+0037.924 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewfstatus.table.gz (64/33/fopen): adding to final database dump
+0037.926 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewftrafficrates.table.tmpr1.gz (65/33/fopen): adding to final database dump
+0037.928 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db-table-bcouihsifjozewftrafficrates.table.gz (66/33/fopen): adding to final database dump
+0037.968 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db.gz: finished writing out complete database file (395.8 KB)
+0037.986 (0) Total database tables backed up: 33 (backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db.gz, size: 405460, sha1: 992642e99f897523e688301cb67739718b4aaed9, sha256: 7c82c8970e09c7a05cab301f403c0fb6eb9e1503869324f11e8d84cba74deabd)
+0037.997 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0037.999 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0038.002 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0038.004 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-others.zip: others: This file has not yet been successfully uploaded: will queue
+0038.006 (0) backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db.gz: db: This file has not yet been successfully uploaded: will queue
+0038.009 (0) Saving backup history. Total backup size: 28.6 MB
+0038.014 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0038.019 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0038.021 (0) No remote despatch: user chose no remote backup service
+0038.026 (0) Recording as successfully uploaded: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-plugins.zip
+0038.033 (0) Recording as successfully uploaded: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-themes.zip
+0038.042 (0) Recording as successfully uploaded: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-uploads.zip
+0038.046 (0) Recording as successfully uploaded: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-others.zip
+0038.050 (0) Recording as successfully uploaded: backup_2021-07-22-0929_Objectif_Bonheur__88e6aa33aa32-db.gz
+0038.056 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0038.058 (0) Number of backup sets in history: 3; groups (db): 1
+0038.059 (0) Examining (for databases) backup set with group_id=0, nonce=88e6aa33aa32, datestamp=1626938973 (Jul 22 2021 07:29:33)
+0038.061 (0) This backup set is the backup set just made, so will not be deleted.
+0038.061 (0) Examining (for databases) backup set with group_id=0, nonce=e611267b0bb3, datestamp=1626884034 (Jul 21 2021 16:13:54)
+0038.061 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0038.063 (0) Examining (for databases) backup set with group_id=0, nonce=1519862ac9d9, datestamp=1626857013 (Jul 21 2021 08:43:33)
+0038.063 (0) 1626857013: db: this set includes a database (backup_2021-07-21-1043_The_Bucket_List_1519862ac9d9-db.gz); db count is now 2
+0038.063 (0) 1626857013: db: over retain limit (2); will delete this database
+0038.063 (0) Delete file: backup_2021-07-21-1043_The_Bucket_List_1519862ac9d9-db.gz, service=none
+0038.065 (0) Deleting local copy (backup_2021-07-21-1043_The_Bucket_List_1519862ac9d9-db.gz)
+0038.068 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0038.070 (0) Number of backup sets in history: 3; groups (files): 1
+0038.072 (0) Examining (for files) backup set with nonce=88e6aa33aa32, datestamp=1626938973 (Jul 22 2021 07:29:33)
+0038.072 (0) This backup set is the backup set just made, so will not be deleted.
+0038.073 (0) This backup set is the backup set just made, so will not be deleted.
+0038.074 (0) This backup set is the backup set just made, so will not be deleted.
+0038.074 (0) This backup set is the backup set just made, so will not be deleted.
+0038.074 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0038.076 (0) Examining (for files) backup set with nonce=e611267b0bb3, datestamp=1626884034 (Jul 21 2021 16:13:54)
+0038.076 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0038.076 (0) Examining (for files) backup set with nonce=1519862ac9d9, datestamp=1626857013 (Jul 21 2021 08:43:33)
+0038.076 (0) plugins: over retain limit (2); will delete this file entity
+0038.076 (0) themes: over retain limit (2); will delete this file entity
+0038.076 (0) uploads: over retain limit (2); will delete this file entity
+0038.076 (0) others: over retain limit (2); will delete this file entity
+0038.076 (0) Delete file: backup_2021-07-21-1043_The_Bucket_List_1519862ac9d9-plugins.zip, service=none
+0038.078 (0) Deleting local copy (backup_2021-07-21-1043_The_Bucket_List_1519862ac9d9-plugins.zip)
+0038.080 (0) Delete file: backup_2021-07-21-1043_The_Bucket_List_1519862ac9d9-themes.zip, service=none
+0038.082 (0) Deleting local copy (backup_2021-07-21-1043_The_Bucket_List_1519862ac9d9-themes.zip)
+0038.084 (0) Delete file: backup_2021-07-21-1043_The_Bucket_List_1519862ac9d9-uploads.zip, service=none
+0038.086 (0) Deleting local copy (backup_2021-07-21-1043_The_Bucket_List_1519862ac9d9-uploads.zip)
+0038.088 (0) Delete file: backup_2021-07-21-1043_The_Bucket_List_1519862ac9d9-others.zip, service=none
+0038.090 (0) Deleting local copy (backup_2021-07-21-1043_The_Bucket_List_1519862ac9d9-others.zip)
+0038.094 (0) This backup set is now empty; will remove from history
+0038.096 (0) Deleting log file (log.1519862ac9d9.txt)
+0038.098 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0038.103 (0) Resume backup (88e6aa33aa32, 0): finish run
+0038.108 (0) Decremented the semaphore (fd) by 1
+0038.112 (0) Semaphore (fd) unlocked
+0038.116 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0038.122 (0) The backup apparently succeeded and is now complete
+0038.123 (0) No email will/can be sent - the user has not configured an email address.
+0038.125 (0) La sauvegarde a apparemment réussi et est maintenant terminée

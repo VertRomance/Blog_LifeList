@@ -1,0 +1,22 @@
+/*
+Theme Name: Aridream Child
+Description: Theme enfant de Aridream
+Author: Carine Bujalance
+Author URI: 
+Template: aridream 
+Version: 0.1.0
+*/
+.site-header,.site-footer{
+    background: #222;
+    line-height: 0.5;
+}
+
+.site-title a, .site-description {
+    color: white !important;
+}
+p.breadcrumb a, .breadcrumb a {
+    color: #222;
+}
+.nav-menu a,.site-footer, .copyright a{
+    color: #222 !important;
+}
